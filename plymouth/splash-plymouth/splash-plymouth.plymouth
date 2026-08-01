@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Splash
+Description=Animated splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/splash-plymouth
+ScriptFile=/usr/share/plymouth/themes/splash-plymouth/splash-plymouth.script
