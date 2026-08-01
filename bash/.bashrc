@@ -52,6 +52,7 @@ docker() {
     fi
     command docker "$@"
 }
-eval "$(starship init bash)"eval "$(mise activate bash)"
+eval "$(starship init bash)"
+eval "$(mise activate bash)"
 
 export PATH=$PATH:/home/c.kgagangowda/.spicetify
