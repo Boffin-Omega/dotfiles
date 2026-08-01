@@ -1,0 +1,21 @@
+{
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "js/ts.suggest.enabled": false,
+    "terminal.integrated.suggest.enabled": false,
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "nyanMode.nyanDisplayPercent": true,
+    "editor.snippetSuggestions": "none",
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.hover.enabled": "off"   
+}
